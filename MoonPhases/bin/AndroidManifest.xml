@@ -1,0 +1,38 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.whp.moonphases"
+    android:versionCode="4"
+    android:versionName="1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:name="com.whp.android.BasicApplication"
+        android:icon="@drawable/moon_phases_btn_ico"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.whp.moonphases.activities.SplashScreenActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="splash_screen_delay"
+            android:value="\ 3000" />
+        <meta-data
+            android:name="splash_screen_next_activity"
+            android:value="com.whp.moonphases.activities.MainActivity" />
+
+        <activity
+            android:name="com.whp.moonphases.activities.MainActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+    </application>
+
+</manifest>

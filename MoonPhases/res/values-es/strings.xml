@@ -1,0 +1,74 @@
+<resources>
+
+    <string name="app_name">Moon Phases</string>
+    <string name="menu_settings">Configuracion</string>
+
+    <string-array name="splash_image_list">
+        <item>images/moon_phases_small.jpg</item>
+    </string-array>
+        <!--
+    <string-array name="moon_phases_image_list">
+        <item>images/moon_phases_0.png</item>
+        <item>images/moon_phases_1.png</item>
+        <item>images/moon_phases_2.png</item>
+        <item>images/moon_phases_3.png</item>
+        <item>images/moon_phases_4.png</item>
+        <item>images/moon_phases_5.png</item>
+        <item>images/moon_phases_6.png</item>
+        <item>images/moon_phases_7.png</item>
+    </string-array>
+
+    -->
+    <string-array name="moon_phases_image_list">
+        <item>images/v12/00.png</item>
+        <item>images/v12/01.png</item>
+        <item>images/v12/02.png</item>
+        <item>images/v12/03.png</item>
+        <item>images/v12/04.png</item>
+        <item>images/v12/05.png</item>
+        <item>images/v12/06.png</item>
+        <item>images/v12/07.png</item>
+        <item>images/v12/08.png</item>
+        <item>images/v12/09.png</item>
+        <item>images/v12/10.png</item>
+        <item>images/v12/11.png</item>
+        <item>images/v12/12.png</item>
+        <item>images/v12/13.png</item>
+        <item>images/v12/14.png</item>
+        <item>images/v12/15.png</item>
+        <item>images/v12/16.png</item>
+        <item>images/v12/17.png</item>
+        <item>images/v12/18.png</item>
+        <item>images/v12/19.png</item>
+        <item>images/v12/20.png</item>
+        <item>images/v12/21.png</item>
+        <item>images/v12/22.png</item>
+        <item>images/v12/23.png</item>
+    </string-array>
+
+    <string-array name="moon_phases_name_list">
+        <item>Luna Nueva</item>
+        <item>Luna Creciente</item>
+        <item>Cuarto Creciente</item>
+        <item>Luna Gibosa Creciente</item>
+        <item>Luna Llena</item>
+        <item>Luna Gibosa Menguante</item>
+        <item>Cuarto Menguante</item>
+        <item>Luna Menguante</item>
+    </string-array>
+    <string-array name="hemispheres">
+        <item>Hemisferio Norte</item>
+        <item>Hemisferio Sur</item>
+    </string-array>
+
+    <string name="menu_settings_date">Fecha</string>
+    <string name="menu_settings_location">Ubicacion</string>
+    <string name="menu_settings_info">Informacion</string>
+    <string name="menu_settings_about">Acerca</string>
+    <string name="info_a">"Las Fases de la Luna son el resultado de mirar la mitad iluminada de la Luna a partir de geometrías de visualización diferentes; estas no no son causados ​​por la sombra de la Tierra o umbra que cae sobre la superficie de la Luna"</string>
+    <string name="info_b">Cuando el Sol y la Luna están alineados en el mismo lado de la Tierra, la Luna es Nueva, y la cara de la Luna visible desde la Tierra no está iluminada por el sol. A medida que la luna crece (la cantidad de superficie iluminada vista desde la Tierra va en aumento), los fases lunares pasan de Luna Nueva, Luna Creciente, Luna del primer trimestre, la Luna Gibosa  y la Luna Llena, para regresar a través de la Luna Menguante, la del tercer trimestre (o trimestre) luna, Luna Creciente y la Luna Nueva. Los términos vieja luna nueva y luna nueva son intercambiables, aunque la luna nueva es más común. Media Luna se usa a menudo para referirse a las lunas de primer y tercer trimestre, mientras que el cuarto se refiere a la extensión del ciclo de la luna alrededor de la Tierra, no su forma.</string>
+    <string name="about_a">Moon Phases v1.2 (2013)</string>
+    <string name="about_b">Autor : Walter H Palladino</string>
+    <string name="about_c">Gracias a Wikipedia, Cielosur.com, USNO</string>
+
+</resources>

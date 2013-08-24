@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="app_name">Moon Phases</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="splash_image_list">
+        <item>images/moon_phases_small.jpg</item>
+    </string-array>
+    <!--
+    <string-array name="moon_phases_image_list">
+        <item>images/moon_phases_0.png</item>
+        <item>images/moon_phases_1.png</item>
+        <item>images/moon_phases_2.png</item>
+        <item>images/moon_phases_3.png</item>
+        <item>images/moon_phases_4.png</item>
+        <item>images/moon_phases_5.png</item>
+        <item>images/moon_phases_6.png</item>
+        <item>images/moon_phases_7.png</item>
+    </string-array>
+    -->
+    <string-array name="moon_phases_image_list">
+        <item>images/v12/00.png</item>
+        <item>images/v12/01.png</item>
+        <item>images/v12/02.png</item>
+        <item>images/v12/03.png</item>
+        <item>images/v12/04.png</item>
+        <item>images/v12/05.png</item>
+        <item>images/v12/06.png</item>
+        <item>images/v12/07.png</item>
+        <item>images/v12/08.png</item>
+        <item>images/v12/09.png</item>
+        <item>images/v12/10.png</item>
+        <item>images/v12/11.png</item>
+        <item>images/v12/12.png</item>
+        <item>images/v12/13.png</item>
+        <item>images/v12/14.png</item>
+        <item>images/v12/15.png</item>
+        <item>images/v12/16.png</item>
+        <item>images/v12/17.png</item>
+        <item>images/v12/18.png</item>
+        <item>images/v12/19.png</item>
+        <item>images/v12/20.png</item>
+        <item>images/v12/21.png</item>
+        <item>images/v12/22.png</item>
+        <item>images/v12/23.png</item>
+    </string-array>
+    <string-array name="moon_phases_name_list">
+        <item>New Moon</item>
+        <item>Waxing Crescent Moon</item>
+        <item>First Quarter Moon</item>
+        <item>Waxing Gibbous Moon</item>
+        <item>Full Moon</item>
+        <item>Waning Gibbous Moon</item>
+        <item>Third Quarter Moon</item>
+        <item>Waning Crescent Moon</item>
+    </string-array>
+    <string-array name="hemispheres">
+        <item>North Hemisphere</item>
+        <item>South Hemisphere</item>
+    </string-array>
+
+    <string name="menu_settings_date">Date</string>
+    <string name="menu_settings_location">Location</string>
+    <string name="menu_settings_info">Information</string>
+    <string name="menu_settings_about">About</string>
+    <string name="info_a">"Lunar phases are the result of looking at the illuminated half of the Moon from different viewing geometries; they are not caused by the shadow of the Earth or umbra falling on the Moon's surface "</string>
+    <string name="info_b">When the Sun and Moon are aligned on the same side of the Earth the Moon is \"new\", and the side of the Moon visible from Earth is not illuminated by the Sun. As the Moon waxes (the amount of illuminated surface as seen from Earth is increasing), the lunar phases progress from new moon, crescent moon, first-quarter moon, gibbous moon and full moon phases, before returning through the gibbous moon, third-quarter (or last quarter) moon, crescent moon and new moon phases. The terms old moon and new moon are interchangeable, although new moon is more common. Half moon is often used to mean the first- and third-quarter moons, while the term \'quarter\' refers to the extent of the moon\'s cycle around the Earth, not its shape.</string>
+    <string name="about_a">Moon Phases v1.2 (2013)</string>
+    <string name="about_b">Author : Walter H Palladino</string>
+    <string name="about_c">Thanks to Wikipedia, Cielosur.com, USNO</string>
+
+</resources>
